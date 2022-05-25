@@ -1,2 +1,6 @@
-# tips_and_tricks
-annotazioni varie
+#Typescript
+
+##Partial<type>
+  
+  Rende gli attributi di un'interfaccia opzionali
+  
